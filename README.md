@@ -1,2 +1,2 @@
-# EDA-Hoetl-Booking-Analysis
+# EDA-Hotel-Booking-Analysis
 EDA on Hotel booking analysis.
